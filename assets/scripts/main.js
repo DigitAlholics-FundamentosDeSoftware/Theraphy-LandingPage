@@ -43,7 +43,7 @@ function yousendit(){
 
 function yousendit2(){
     if(document.getElementById('yousendit2').checked){
-        window.location='https://digitalholics-fundamentosdesoftware.github.io/Theraphy-LandingPage/index.html';
+        window.location='https://digitalholics-fundamentosdesoftware.github.io/Theraphy-LandingPage/';
         return false;
     }
     return true;
